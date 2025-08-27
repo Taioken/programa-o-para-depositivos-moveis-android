@@ -1,3 +1,3 @@
-console.log("ola mundo")
+console.log("ola mundo");
 
-console.log("sla mundo")
+console.log("sla mundo");
